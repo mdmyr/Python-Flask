@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b45a7c-348e-46f8-ac27-a63c25e334a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printthis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -123,25 +122,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="930" y="227" key="#home/0.0.2560.1400@0.0.2560.1400" timestamp="1582856185453" />
-    <state width="1877" height="452" key="GridCell.Tab.0.bottom" timestamp="1582912994644">
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1582919188747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582912994644" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582919188747" />
     <state width="2534" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582856550286" />
-    <state width="1877" height="452" key="GridCell.Tab.0.center" timestamp="1582912994644">
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1582919188746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582912994644" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582919188746" />
     <state width="2534" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582856550286" />
-    <state width="1877" height="452" key="GridCell.Tab.0.left" timestamp="1582912994644">
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1582919188746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582912994644" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582919188746" />
     <state width="2534" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582856550286" />
-    <state width="1877" height="452" key="GridCell.Tab.0.right" timestamp="1582912994644">
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1582919188746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582912994644" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582919188746" />
     <state width="2534" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582856550286" />
     <state x="587" y="148" width="994" height="816" key="SettingsEditor" timestamp="1582906491212">
       <screen x="0" y="0" width="1920" height="1040" />
