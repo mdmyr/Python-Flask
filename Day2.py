@@ -15,6 +15,17 @@ def home():
     return 'You are home'
 
 
+'''
+Variable rules
+'''
+
+@app.route('/homee/<name>')
+def hello_name(name):
+    return 'Hi there '% name
+
+'''
+below is the routing methon
+'''
 
 def helloWorld():
     return 'Hello World'
